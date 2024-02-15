@@ -97,6 +97,13 @@ h6{
     font-size: 1.0rem;
     color: #6274da;
 }
+article{
+    text-align: center;
+    color: #a5b3ff;
+    font-family: "Orbitron";
+    font-weight: bold;
+    line-height: 18.5pt;
+}
 a{
     text-decoration: none;
     color:rgb(28, 107, 255);
